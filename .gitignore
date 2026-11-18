@@ -1,0 +1,15 @@
+# Data and database (not committed)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+database/*
+!database/.gitkeep
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# System files
+.DS_Store
